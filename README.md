@@ -9,4 +9,9 @@ I needed something other than word scramble every week
 
 then I will give hints in class to help them guess.
 
+https://greggelong.github.io/wordGap
+
+
+https://greggelong.github.io/wordScramble
+
 
