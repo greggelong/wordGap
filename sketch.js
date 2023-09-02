@@ -56,7 +56,7 @@ function newType() {
 
 function gap(word){
   let aryString= word.split("");
-  let nofg = floor(aryString.length/2)+1 // number of gaps
+  let nofg = floor((aryString.length/2)+.5) // number of gaps is word /2 +.5 floored so 3 and 4 both have two gaps but 2 has one gap
   let alredgap = []
   print(aryString.length,nofg)
   while(nofg>0){
